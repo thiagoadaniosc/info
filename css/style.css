@@ -1,0 +1,130 @@
+body,
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url('../img/cmsj.png') !important;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.mainBody {
+    min-height: 200px;
+    background-color: white;
+    padding-top: 20px;
+    position: relative;
+    top:50px;
+    opacity: 0.8;
+    border-bottom: 10px solid #408ddb;
+
+}
+
+.mainTitle {
+    position: relative;
+    top:50px;
+    background-color: rgb(68, 123, 243);
+    background-color: #03468d;
+    background-color: #11518a;
+    background-color: #313131;
+    background-color: #343A40;
+    
+    margin:0px;
+    color:white;
+    padding:10px;
+}
+
+.card {
+    min-height: 350px;  
+    margin-bottom: 20px;
+    border-radius: 0;
+    border: none;
+    transition: 1s;
+}
+a {
+    text-decoration: none;
+}
+.color1 {
+    background-color: #576CEE;
+	color:white;
+	/*border:2px solid #54545C;*/
+	border-radius: 0;
+	border: 2px solid #576CEE;
+    transition: 1s;
+    border: 2px solid #576CEE;
+}
+
+.card-1:hover{
+    background-color: transparent;
+    transition: 1s;
+    color: #576CEE;
+
+}
+
+.color2 {
+    background-color: 	#c33737;
+    border: 2px solid #c33737;
+    color: white;
+}
+
+.card-2:hover{
+    background-color: transparent;
+    transition: 1s;
+    color: #c33737;
+
+}
+
+.color3 {
+    background-color: 	#a11b9b;
+    border: 2px solid #a11b9b;
+    color: white;
+
+}
+
+.card-3:hover{
+    background-color: transparent;
+    transition: 1s;
+    color: #a11b9b;
+
+}
+
+.color4 {
+    background-color: 		#fad149;
+    border: 2px solid #fad149;
+    color: white;
+}
+
+.card-4:hover{
+    background-color: transparent;
+    transition: 1s;
+    color: #fad149;
+
+}
+
+.color5 {
+    background-color: #009e69;
+    color: white;
+    border: 2px solid #009e69;
+}
+
+.card-5:hover{
+    background-color: transparent;
+    transition: 1s;
+    color: #009e69;
+
+}
+
+.color6 {
+    background-color: 	#0d1235;
+    border: 2px solid #0d1235;;
+    color: white;
+}
+
+.card-6:hover{
+    background-color: transparent;
+    transition: 1s;
+    color: #0d1235;
+
+}
+
